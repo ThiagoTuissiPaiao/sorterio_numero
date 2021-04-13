@@ -16,16 +16,3 @@ print(f"""
     O computador escoleu: {computador}
     E voce escolheu: {usuario}
 """)
-
-
-
-
-"""
-import random
-numero = int(input("Escolha um numero entre 1 a 5: "))
-
-print(f"O numero sorteado é: {random.randrange(0, 5)}")
-
-if numero:
-    print(f"O numero que você escolheu é: {numero}")
-"""
